@@ -29,3 +29,63 @@ body {
 .stext {
   color: #cfc0a7;
 }
+.section-2 {
+  background-color: #e9e4d9;
+  min-height: 24rem;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+  align-items: center;
+  display: flex;
+}
+.today {
+  color: #c49c35;
+  font-size: 0.625em;
+  letter-spacing: 0.05rem;
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+  text-align: left;
+  line-height: 1;
+  margin-left: 121.3333px;
+}
+.focus {
+  color: #222222;
+  text-align: left;
+  font-size: 2.5em;
+  font-family: "Georgia", serif;
+  line-height: 1.25;
+  font-weight: 400;
+  margin-left: 121.3333px;
+}
+.image-1 {
+  box-sizing: border-box;
+  object-position: center;
+  object-fit: cover;
+  max-width: 100%;
+}
+.para-1 {
+  color: #333333;
+  font-family: "Inter", sans-serif;
+  font-size: 17.3333px;
+  font-weight: 400;
+  line-height: 1.625;
+  text-align: left;
+  margin-left: 121.3333px;
+}
+.div1 {
+  max-width: 75rem;
+  width: 100%;
+  position: relative;
+}
+.div-1-in {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.div1-1 {
+  width: calc(30%+(7rem/2));
+}
+.div1-2 {
+  width: calc(70%+(7rem/2));
+  padding: 0 0 0 7rem;
+}
